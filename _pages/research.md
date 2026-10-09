@@ -7,9 +7,8 @@ author_profile: true
 
 ## Job Market Paper
 
-**News Shocks and Inflation: Theory and Evidence from Large Oil Discoveries** (with Liugang Sheng and Hongyan Zhao)
-
-[PDF](/files/news_and_inflation.pdf)
+**[News Shocks and Inflation: Theory and Evidence from Large Oil Discoveries](/files/news_and_inflation.pdf)** (with Liugang Sheng and Hongyan Zhao)
+Working paper.
 
 
 ## Work in Progress
