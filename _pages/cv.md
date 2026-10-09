@@ -7,8 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-CV
-======
 You can download my CV [here](/files/cv.pdf).
