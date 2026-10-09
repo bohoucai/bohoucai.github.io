@@ -11,4 +11,4 @@ redirect_from:
 
 CV
 ======
-You can download my CV here.
+You can download my CV [here](/files/cv.pdf).
