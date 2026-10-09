@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate in Economics at The Chinese University of Hong Kong, expecting to complete my degree in July 2027. 
-My research focuses on International Trade and International Macroeconomics, with particular interest in geopolitical risk on trade and business cycle fluctuations.
+My research focuses on International Trade and International Macroeconomics, with particular interest in business cycle fluctuations and the effects of geopolitical risk on international trade.
 
 ## Research Interests
 
