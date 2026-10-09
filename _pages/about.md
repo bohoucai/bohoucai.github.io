@@ -13,7 +13,7 @@ My research focuses on International Trade and International Macroeconomics, wit
 
 - International Trade
 - International Macroeconomics
-- Applied Econometrics
+- Applied Microeconometrics
 
 ## Contact
 
